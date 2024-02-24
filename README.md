@@ -74,7 +74,7 @@ src="https://img.shields.io/github/followers/BekxFR?logo=github&style=flat&color
 
 <p align="left">
 <a href="https://www.github.com/BekxFR" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" alt="GitHub Badge"></a>
-<a href="https://www.linkedin.com/in/cyril-hillion" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" alt="LinkedIn Badge"></a>
+ <a href="https://www.linkedin.com/in/cyril-hillion" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" alt="LinkedIn Badge"></a>
 </p>
 
 ### Badges
