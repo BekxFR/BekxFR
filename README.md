@@ -40,7 +40,7 @@ src="https://img.shields.io/github/followers/BekxFR?logo=github&style=flat&color
 <a href="https://www.typescriptlang.org/docs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" alt="TypeScript Badge"></a>
 </p>
 
-##### Technos
+##### Technologies
 
 <p align="left">
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=flat" alt="NestJS Badge"></a>
