@@ -33,7 +33,7 @@ src="https://img.shields.io/github/followers/BekxFR?logo=github&style=flat&color
 
 | Languages               | Technologies           | Others              |
 |-------------------------|------------------------|---------------------|
-| [![C Badge][c-img]][c], [![C++ Badge][cpp-img]][cpp], [![JavaScript Badge][js-img]][js], [![TypeScript Badge][ts-img]][ts] | [![NestJS Badge][nestjs-img]][nestjs], [![React Badge][react-img]][react], [![Next.js Badge][next-img]][next], [![Docker Badge][docker-img]][docker], [![Bootstrap Badge][bootstrap-img]][bootstrap], [![Express Badge][express-img]][express], [![Tailwind CSS Badge][tailwind-css-img]][tailwind-css], [![PostgreSQL Badge][postgresql-img]][postgresql] | [![Git Badge][git-img]][git], [![Linux Badge][linux-img]][linux], [![GNU Bash Badge][bash-img]][bash] |
+| [![C Badge][c-img]][c][![C++ Badge][cpp-img]][cpp][![JavaScript Badge][js-img]][js][![TypeScript Badge][ts-img]][ts] | <p style="text-align: center;"><span style="background-color: #4CAF50; color: white;">[![NestJS Badge][nestjs-img]][nestjs][![React Badge][react-img]][react][![Next.js Badge][next-img]][next][![Docker Badge][docker-img]][docker][![Bootstrap Badge][bootstrap-img]][bootstrap][![Express Badge][express-img]][express][![Tailwind CSS Badge][tailwind-css-img]][tailwind-css][![PostgreSQL Badge][postgresql-img]][postgresql]</span></p> | [![Git Badge][git-img]][git][![Linux Badge][linux-img]][linux][![GNU Bash Badge][bash-img]][bash] |
 
 [c-img]: https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat
 [cpp-img]: https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat
