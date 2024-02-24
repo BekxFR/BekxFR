@@ -27,7 +27,7 @@ I am a software engineer and full-stack developer who has completed the 42 schoo
 * ⚡  In another life, I was an IT admin and IT manager, but I love coding and creating epic graphic projects, like my "so\_long" folder, with personal drawings.
 
 <a href="https://www.github.com/BekxFR" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/BekxFR?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" style="border-radius: 10px; max-width: 100px;"/></a>
+src="https://img.shields.io/github/followers/BekxFR?logo=github&style=flat&color=a855f7&labelColor=1c1917"/></a>
 
 ### Skills
 
