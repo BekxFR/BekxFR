@@ -1,3 +1,11 @@
+<style>
+.green {
+    color: green;
+    font-weight:700;
+    font-size: 30px;
+}
+</style>
+
 <!--
 **BekxFR/BekxFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,7 +39,7 @@ src="https://img.shields.io/github/followers/BekxFR?logo=github&style=flat&color
 
 ### Skills
 
-<div align="center">
+<div align="center" class="green">
 
 | Languages               | Technologies           | Others              |
 |-------------------------|------------------------|---------------------|
