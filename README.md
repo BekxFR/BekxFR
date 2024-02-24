@@ -31,36 +31,49 @@ src="https://img.shields.io/github/followers/BekxFR?logo=github&style=flat&color
 
 ### Skills
 
-#### Languages
+| Languages               | Technologies           | Others              |
+|-------------------------|------------------------|---------------------|
+| <p align="left">       | <p align="left">       | <p align="left">    |
+| [![C Badge][c-img]][c] | [![NestJS Badge][nestjs-img]][nestjs] | [![Git Badge][git-img]][git] |
+| [![C++ Badge][cpp-img]][cpp] | [![React Badge][react-img]][react] | [![Linux Badge][linux-img]][linux] |
+| [![JavaScript Badge][js-img]][js] | [![Next.js Badge][next-img]][next] | [![GNU Bash Badge][bash-img]][bash] |
+| [![TypeScript Badge][ts-img]][ts] | [![Docker Badge][docker-img]][docker] |                     |
+|                         | [![Bootstrap Badge][bootstrap-img]][bootstrap] |                   |
+|                         | [![Express Badge][express-img]][express] |                     |
+|                         | [![Tailwind CSS Badge][tailwind-css-img]][tailwind-css] |         |
+|                         | [![PostgreSQL Badge][postgresql-img]][postgresql] |                 |
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat" alt="C Badge"></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat" alt="C++ Badge"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" alt="JavaScript Badge"></a>
-<a href="https://www.typescriptlang.org/docs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" alt="TypeScript Badge"></a>
-</p>
+[c-img]: https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat
+[cpp-img]: https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat
+[js-img]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat
+[ts-img]: https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat
+[nestjs-img]: https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=flat
+[react-img]: https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat
+[next-img]: https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat
+[docker-img]: https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat
+[bootstrap-img]: https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat
+[express-img]: https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat
+[tailwind-css-img]: https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat
+[postgresql-img]: https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat
+[git-img]: https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat
+[linux-img]: https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat
+[bash-img]: https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat
 
-##### Technologies
-
-<p align="left">
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=flat" alt="NestJS Badge"></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat" alt="React Badge"></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat" alt="Next.js Badge"></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat" alt="Docker Badge"></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat" alt="Bootstrap Badge"></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat" alt="Express Badge"></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat" alt="Tailwind CSS Badge"></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat" alt="PostgreSQL Badge"></a>
-</p>
-
-##### Others
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat" alt="Git Badge"></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat" alt="Linux Badge"></a>
-<a href="https://github.com/odb/official-bash-logo?tab=readme-ov-file" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat" alt="GNU Bash Badge"></a>
-</p>
-
+[c]: https://docs.microsoft.com/en-us/cpp/?view=msvc-170
+[cpp]: https://docs.microsoft.com/en-us/cpp/?view=msvc-170
+[js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[ts]: https://www.typescriptlang.org/docs
+[nestjs]: https://docs.nestjs.com/
+[react]: https://reactjs.org/
+[next]: https://nextjs.org/docs
+[docker]: https://www.docker.com/
+[bootstrap]: https://getbootstrap.com/
+[express]: https://expressjs.com/
+[tailwind-css]: https://tailwindcss.com/
+[postgresql]: https://www.postgresql.org/
+[git]: https://git-scm.com/
+[linux]: https://www.linux.org
+[bash]: https://github.com/odb/official-bash-logo?tab=readme-ov-file
 
 ### Socials
 
