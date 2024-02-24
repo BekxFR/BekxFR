@@ -33,7 +33,7 @@ src="https://img.shields.io/github/followers/BekxFR?logo=github&style=flat&color
 
 <div align="center">
 
-| Languages               | Technologies           | Others              |
+| Languages               | <p style="color:green"> Technologies          </p> | Others              |
 |-------------------------|------------------------|---------------------|
 | <p align="center"> [![C Badge][c-img]][c] [![C++ Badge][cpp-img]][cpp] [![JavaScript Badge][js-img]][js] [![TypeScript Badge][ts-img]][ts] </p> | <p style="color:green" align="center"> [![NestJS Badge][nestjs-img]][nestjs] [![React Badge][react-img]][react] [![Next.js Badge][next-img]][next] [![Docker Badge][docker-img]][docker] [![Bootstrap Badge][bootstrap-img]][bootstrap] [![Express Badge][express-img]][express] [![Tailwind CSS Badge][tailwind-css-img]][tailwind-css] [![PostgreSQL Badge][postgresql-img]][postgresql] </p> | <p align="center"> [![Git Badge][git-img]][git] [![Linux Badge][linux-img]][linux] [![GNU Bash Badge][bash-img]][bash] </p> |
 </div>
