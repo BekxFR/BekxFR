@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<style>
+red { color: red }
+yellow { color: yellow }
+</style>
+
 Hi 👋 My name is Cyril
 ======================
 
@@ -30,7 +35,7 @@ I am a software engineer and full-stack developer who has completed the 42 schoo
 
 ### Skills
 
-| Languages               | Technologies           | Others              |
+| Languages               | <red>Technologies         </red>  | Others              |
 |-------------------------|------------------------|---------------------|
 | <p align="center"> [![C Badge][c-img]][c] [![C++ Badge][cpp-img]][cpp] [![JavaScript Badge][js-img]][js] [![TypeScript Badge][ts-img]][ts] </p> | <p align="center"> [![NestJS Badge][nestjs-img]][nestjs] [![React Badge][react-img]][react] [![Next.js Badge][next-img]][next] [![Docker Badge][docker-img]][docker] [![Bootstrap Badge][bootstrap-img]][bootstrap] [![Express Badge][express-img]][express] [![Tailwind CSS Badge][tailwind-css-img]][tailwind-css] [![PostgreSQL Badge][postgresql-img]][postgresql] </p> | <p align="center"> [![Git Badge][git-img]][git] [![Linux Badge][linux-img]][linux] [![GNU Bash Badge][bash-img]][bash] </p> |
 
