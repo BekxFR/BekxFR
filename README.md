@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/BekxFR?logo=github&style=flat&color
 
 ### Skills
 
-<div max-width="400px" margin="0 auto">
+<div align="center">
 
 | Languages               | Technologies           | Others              |
 |-------------------------|------------------------|---------------------|
