@@ -19,7 +19,7 @@ Hi 👋 my name is Cyril
 Software, Full Stack Developer, DevOps
 --------------------------------------
 
-I am a software engineer, full-stack developer and DevOps who has completed the 42 school [![42 Badge][42-img]][42] and finished the common core. I am interested in software development, full-stack development, game projects, or open to other propositions. Please feel free to contact me for any further informations.
+I am a software engineer, full-stack developer and DevOps who has completed the 42 school [![42s Badge][42-img]][42] and finished the common core. I am interested in software development, full-stack development, game projects, or open to other propositions. Please feel free to contact me for any further informations.
 
 * 🌍  I'm based in Paris.
 * 🧠  I'm learning full-stack frameworks, AWS, Terraform, Unreal Engine, and other languages.
