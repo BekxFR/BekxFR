@@ -51,6 +51,7 @@ I am a software engineer, full-stack developer and DevOps who has completed the 
 [linux-img]: https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat
 [bash-img]: https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat
 
+[42]: https://42.fr/
 [c]: https://docs.microsoft.com/en-us/cpp/?view=msvc-170
 [cpp]: https://docs.microsoft.com/en-us/cpp/?view=msvc-170
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
