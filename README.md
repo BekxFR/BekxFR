@@ -19,7 +19,7 @@ Hi 👋 my name is Cyril
 Software, Full Stack Developer, DevOps
 --------------------------------------
 
-I am a software engineer, full-stack developer and DevOps who has completed the [![42 Badge](https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg)][42s] School and finished the common core. I am interested in software development, full-stack development, game projects, or open to other propositions. Please feel free to contact me for any further informations.
+I am a software engineer, full-stack developer and DevOps who has completed the [![42 Badge][42-img]][42s] School and finished the common core. I am interested in full-stack development, DevOps programming, software development, game projects, or open to other propositions. Please feel free to contact me for any further informations.
 
 * 🌍  I'm based in Paris.
 * 🧠  I'm learning full-stack frameworks, AWS, Terraform, Unreal Engine, and other languages.
@@ -32,7 +32,7 @@ I am a software engineer, full-stack developer and DevOps who has completed the 
 
 | Languages               | Technologies           | Others              |
 |-------------------------|------------------------|---------------------|
-| <p align="center"> [![C Badge][c-img]][c] [![C++ Badge][cpp-img]][cpp] [![JavaScript Badge][js-img]][js] [![TypeScript Badge][ts-img]][ts] </p> | <p align="center"> [![NestJS Badge][nestjs-img]][nestjs] [![React Badge][react-img]][react] [![Next.js Badge][next-img]][next] [![Docker Badge][docker-img]][docker] [![Bootstrap Badge][bootstrap-img]][bootstrap] [![Express Badge][express-img]][express] [![Tailwind CSS Badge][tailwind-css-img]][tailwind-css] [![PostgreSQL Badge][postgresql-img]][postgresql] </p> | <p align="center"> [![Git Badge][git-img]][git] [![Linux Badge][linux-img]][linux] [![GNU Bash Badge][bash-img]][bash] </p> |
+| <p align="center"> [![C Badge][c-img]][c] [![C++ Badge][cpp-img]][cpp] [![JavaScript Badge][js-img]][js] [![TypeScript Badge][ts-img]][ts] </p> | <p align="center"> [![NestJS Badge][nestjs-img]][nestjs] [![React Badge][react-img]][react] [![Next.js Badge][next-img]][next] [![Docker Badge][docker-img]][docker] [![Amazon AWS Badge][aws-img]][aws] [![Bootstrap Badge][bootstrap-img]][bootstrap] [![Express Badge][express-img]][express] [![Tailwind CSS Badge][tailwind-css-img]][tailwind-css] [![PostgreSQL Badge][postgresql-img]][postgresql] </p> | <p align="center"> [![Git Badge][git-img]][git] [![Linux Badge][linux-img]][linux] [![GNU Bash Badge][bash-img]][bash] </p> |
 
 [42-img]: https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=flat
 [c-img]: https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat
@@ -43,6 +43,7 @@ I am a software engineer, full-stack developer and DevOps who has completed the 
 [react-img]: https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat
 [next-img]: https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat
 [docker-img]: https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat
+[aws-img]: https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat
 [bootstrap-img]: https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat
 [express-img]: https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat
 [tailwind-css-img]: https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat
@@ -60,6 +61,7 @@ I am a software engineer, full-stack developer and DevOps who has completed the 
 [react]: https://reactjs.org/
 [next]: https://nextjs.org/docs
 [docker]: https://www.docker.com/
+[aws]: https://aws.amazon.com/
 [bootstrap]: https://getbootstrap.com/
 [express]: https://expressjs.com/
 [tailwind-css]: https://tailwindcss.com/
