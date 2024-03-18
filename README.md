@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 Hi 👋 my name is Cyril
 ======================
 
-Software, Full Stack Developer
-------------------------------
+Software, Full Stack Developer, DevOps
+--------------------------------------
 
-I am a software engineer and full-stack developer who has completed the 42 school and finished the common core. I am interested in software development, full-stack development, game projects, or open to other propositions. Please feel free to contact me for any further informations.
+I am a software engineer, full-stack developer and DevOps who has completed the 42 school and finished the common core. I am interested in software development, full-stack development, game projects, or open to other propositions. Please feel free to contact me for any further informations.
 
 * 🌍  I'm based in Paris.
-* 🧠  I'm learning full-stack frameworks, AWS, Unreal Engine, and other languages.
+* 🧠  I'm learning full-stack frameworks, AWS, Terraform, Unreal Engine, and other languages.
 * 🤝  I'm open to collaborating on software, full-stack, game, or other interesting projects.
 * ⚡  In another life, I was an IT admin and IT manager, but I love coding and creating epic graphic projects, like my "so\_long" folder, with personal drawings.
 
