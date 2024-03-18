@@ -19,7 +19,7 @@ Hi 👋 my name is Cyril
 Software, Full Stack Developer, DevOps
 --------------------------------------
 
-I am a software engineer, full-stack developer and DevOps who has completed the [![42 Badge](https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=flat)][42s] School and finished the common core. I am interested in software development, full-stack development, game projects, or open to other propositions. Please feel free to contact me for any further informations.
+I am a software engineer, full-stack developer and DevOps who has completed the [![42 Badge](https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg)][42s] School and finished the common core. I am interested in software development, full-stack development, game projects, or open to other propositions. Please feel free to contact me for any further informations.
 
 * 🌍  I'm based in Paris.
 * 🧠  I'm learning full-stack frameworks, AWS, Terraform, Unreal Engine, and other languages.
@@ -34,7 +34,7 @@ I am a software engineer, full-stack developer and DevOps who has completed the 
 |-------------------------|------------------------|---------------------|
 | <p align="center"> [![C Badge][c-img]][c] [![C++ Badge][cpp-img]][cpp] [![JavaScript Badge][js-img]][js] [![TypeScript Badge][ts-img]][ts] </p> | <p align="center"> [![NestJS Badge][nestjs-img]][nestjs] [![React Badge][react-img]][react] [![Next.js Badge][next-img]][next] [![Docker Badge][docker-img]][docker] [![Bootstrap Badge][bootstrap-img]][bootstrap] [![Express Badge][express-img]][express] [![Tailwind CSS Badge][tailwind-css-img]][tailwind-css] [![PostgreSQL Badge][postgresql-img]][postgresql] </p> | <p align="center"> [![Git Badge][git-img]][git] [![Linux Badge][linux-img]][linux] [![GNU Bash Badge][bash-img]][bash] </p> |
 
-[ftwos-img]: https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=flat
+[42-img]: https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=flat
 [c-img]: https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat
 [cpp-img]: https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat
 [js-img]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat
