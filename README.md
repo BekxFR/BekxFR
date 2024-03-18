@@ -32,7 +32,7 @@ I am a software engineer, full-stack developer and DevOps who has completed the 
 
 | Languages               | Technologies           | Others              |
 |-------------------------|------------------------|---------------------|
-| <p align="center"> [![C Badge][c-img]][c] [![C++ Badge][cpp-img]][cpp] [![JavaScript Badge][js-img]][js] [![TypeScript Badge][ts-img]][ts] </p> | <p align="center"> [![NestJS Badge][nestjs-img]][nestjs] [![React Badge][react-img]][react] [![Next.js Badge][next-img]][next] [![Docker Badge][docker-img]][docker] [![Kubernetes Badge][kubernetes-img]][kubernetes] [![Amazon AWS Badge][aws-img]][aws] [![Terraform Badge][terraform-img]][terraform] [![Bootstrap Badge][bootstrap-img]][bootstrap] [![Express Badge][express-img]][express] [![Tailwind CSS Badge][tailwind-css-img]][tailwind-css] [![PostgreSQL Badge][postgresql-img]][postgresql] </p> | <p align="center"> [![Git Badge][git-img]][git] [![Linux Badge][linux-img]][linux] [![GNU Bash Badge][bash-img]][bash] [![CodinGame Badge][coding-img]][codinggane] </p> |
+| <p align="center"> [![C Badge][c-img]][c] [![C++ Badge][cpp-img]][cpp] [![JavaScript Badge][js-img]][js] [![TypeScript Badge][ts-img]][ts] </p> | <p align="center"> [![NestJS Badge][nestjs-img]][nestjs] [![React Badge][react-img]][react] [![Next.js Badge][next-img]][next] [![Docker Badge][docker-img]][docker] [![Kubernetes Badge][kubernetes-img]][kubernetes] [![Amazon AWS Badge][aws-img]][aws] [![Terraform Badge][terraform-img]][terraform] [![Bootstrap Badge][bootstrap-img]][bootstrap] [![Express Badge][express-img]][express] [![Tailwind CSS Badge][tailwind-css-img]][tailwind-css] [![PostgreSQL Badge][postgresql-img]][postgresql] </p> | <p align="center"> [![Git Badge][git-img]][git] [![Linux Badge][linux-img]][linux] [![GNU Bash Badge][bash-img]][bash] [![CodinGame Badge][coding-img]][coding-game] </p> |
 
 [42-img]: https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=flat
 [c-img]: https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat
@@ -74,7 +74,7 @@ I am a software engineer, full-stack developer and DevOps who has completed the 
 [git]: https://git-scm.com/
 [linux]: https://www.linux.org
 [bash]: https://github.com/odb/official-bash-logo?tab=readme-ov-file
-[codinggame]: https://www.codingame.com/
+[coding-game]: https://www.codingame.com/
 
 ### Socials
 
