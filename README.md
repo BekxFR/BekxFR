@@ -26,7 +26,7 @@ I am a software engineer, full-stack developer and DevOps who has completed the 
 * 🤝  I'm open to collaborating on software, full-stack, game, or other interesting projects.
 * ⚡  In another life, I was an IT admin and IT manager, but I love coding and creating epic graphic projects, like my "so\_long" folder, with personal drawings.
 
-<a href="https://www.github.com/BekxFR" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/BekxFR?logo=github&style=flat&color=a855f7&labelColor=1c1917"/></a>
+[![GitHub Badge][github-followers-img]][github-profile] 
 
 ### Skills
 
@@ -36,11 +36,7 @@ I am a software engineer, full-stack developer and DevOps who has completed the 
 
 ### Socials
 
-<p align="left">
-<a href="https://www.github.com/BekxFR" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" alt="GitHub Badge"></a>
-<a href="https://www.linkedin.com/in/cyril-hillion" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" alt="LinkedIn Badge"></a> [![CodinGame Badge][coding-img]][coding-profile] 
-</p>
-
+[![GitHub Badge][github-img]][github-profile]  [![LinkedIn Badge][linkedin-img]][linkedin-profile] [![CodinGame Badge][coding-img]][coding-profile] 
 
 ### Badges
 
@@ -52,7 +48,7 @@ I am a software engineer, full-stack developer and DevOps who has completed the 
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/BekxFR/so_long" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BekxFR&repo=so_long&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/BekxFR/so_long" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BekxFR&repo=so_long&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 [42-img]: https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=flat
 [c-img]: https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat
@@ -73,6 +69,9 @@ I am a software engineer, full-stack developer and DevOps who has completed the 
 [git-img]: https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat
 [linux-img]: https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat
 [bash-img]: https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat
+[github-img]: https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat
+[github-followers-img]: https://img.shields.io/github/followers/BekxFR?logo=github&style=flat&color=a855f7&labelColor=1c1917
+[linkedin-img]: https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat
 [coding-img]: https://img.shields.io/badge/CodinGame-F2BB13?logo=codingame&logoColor=fff&style=flat
 
 [42s]: https://42.fr/
@@ -94,5 +93,7 @@ I am a software engineer, full-stack developer and DevOps who has completed the 
 [git]: https://git-scm.com/
 [linux]: https://www.linux.org
 [bash]: https://github.com/odb/official-bash-logo?tab=readme-ov-file
+[github-profile]: https://www.github.com/BekxFR
+[linkedin-profile]: https://www.linkedin.com/in/cyril-hillion
 [coding-game]: https://www.codingame.com/
-[coding-profile]: https://www.codingame.com/](https://www.codingame.com/profile/8bb24abe81f87df1bdb45b1adad1cdde9514635
+[coding-profile]: https://www.codingame.com/profile/8bb24abe81f87df1bdb45b1adad1cdde9514635
