@@ -34,6 +34,26 @@ I am a software engineer, full-stack developer and DevOps who has completed the 
 |-------------------------|------------------------|---------------------|
 | <p align="center"> [![C Badge][c-img]][c] [![C++ Badge][cpp-img]][cpp] [![JavaScript Badge][js-img]][js] [![TypeScript Badge][ts-img]][ts] </p> | <p align="center"> [![NestJS Badge][nestjs-img]][nestjs] [![React Badge][react-img]][react] [![Next.js Badge][next-img]][next] [![Docker Badge][docker-img]][docker] [![Kubernetes Badge][kubernetes-img]][kubernetes] [![Amazon AWS Badge][aws-img]][aws] [![Terraform Badge][terraform-img]][terraform] [![Bootstrap Badge][bootstrap-img]][bootstrap] [![Express Badge][express-img]][express] [![Tailwind CSS Badge][tailwind-css-img]][tailwind-css] [![PostgreSQL Badge][postgresql-img]][postgresql] </p> | <p align="center"> [![Git Badge][git-img]][git] [![Linux Badge][linux-img]][linux] [![GNU Bash Badge][bash-img]][bash] [![CodinGame Badge][coding-img]][coding-game] </p> |
 
+### Socials
+
+<p align="left">
+<a href="https://www.github.com/BekxFR" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" alt="GitHub Badge"></a>
+<a href="https://www.linkedin.com/in/cyril-hillion" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" alt="LinkedIn Badge"></a> [![CodinGame Badge][coding-img]][coding-profile] 
+</p>
+
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/BekxFR"><img src="https://github-readme-stats.vercel.app/api?username=BekxFR&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="BekxFR's GitHub stats" /></a>
+
+<a href="http://www.github.com/BekxFR"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BekxFR&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/BekxFR/so_long" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BekxFR&repo=so_long&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
 [42-img]: https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=flat
 [c-img]: https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat
 [cpp-img]: https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat
@@ -75,22 +95,4 @@ I am a software engineer, full-stack developer and DevOps who has completed the 
 [linux]: https://www.linux.org
 [bash]: https://github.com/odb/official-bash-logo?tab=readme-ov-file
 [coding-game]: https://www.codingame.com/
-
-### Socials
-
-<p align="left">
-<a href="https://www.github.com/BekxFR" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" alt="GitHub Badge"></a>
- <a href="https://www.linkedin.com/in/cyril-hillion" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" alt="LinkedIn Badge"></a>
-</p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/BekxFR"><img src="https://github-readme-stats.vercel.app/api?username=BekxFR&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="BekxFR's GitHub stats" /></a>
-
-<a href="http://www.github.com/BekxFR"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BekxFR&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/BekxFR/so_long" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BekxFR&repo=so_long&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+[coding-profile]: https://www.codingame.com/](https://www.codingame.com/profile/8bb24abe81f87df1bdb45b1adad1cdde9514635
