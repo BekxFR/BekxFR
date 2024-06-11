@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 Hi 👋 my name is Cyril
 ======================
 
-Software, Full Stack Developer, DevOps
---------------------------------------
+Full Stack Developer, DevOps and Software engineer
+--------------------------------------------------
 
 I am a full-stack developer, DevOps and software engineer, who has completed the [![42 Badge][42-img]][42s] School and finished the common core. I am interested in full-stack development, DevOps programming, software development, game projects, or open to other propositions. Please feel free to contact me for any further informations.
 
 * 🌍  I'm based in Paris.
-* 🧠  I'm learning full-stack frameworks, AWS, Terraform, Unreal Engine, and other languages.
+* 🧠  I'm do projects with React, NestJS, Next.js, Node.js, Tailwind CSS, Docker, C, C++, Python and other technos and languages.
+* 🌱  I'm learning Bootstrap, AWS, Ansible, Terraform, Unreal Engine, Java and other technos and languages.
 * 🤝  I'm open to collaborating on software, full-stack, game, or other interesting projects.
 * ⚡  In another life, I was an IT admin and IT manager, but I love coding and creating epic graphic projects, like my "so\_long" folder, with personal drawings.
 
@@ -32,7 +33,7 @@ I am a full-stack developer, DevOps and software engineer, who has completed the
 
 | Languages               | Technologies           | Others              |
 |-------------------------|------------------------|---------------------|
-| <p align="center"> [![C Badge][c-img]][c] [![C++ Badge][cpp-img]][cpp] [![JavaScript Badge][js-img]][js] [![TypeScript Badge][ts-img]][ts] </p> | <p align="center"> [![NestJS Badge][nestjs-img]][nestjs] [![React Badge][react-img]][react] [![Next.js Badge][next-img]][next] [![Docker Badge][docker-img]][docker] [![Kubernetes Badge][kubernetes-img]][kubernetes] [![Amazon AWS Badge][aws-img]][aws] [![Terraform Badge][terraform-img]][terraform] [![Bootstrap Badge][bootstrap-img]][bootstrap] [![Express Badge][express-img]][express] [![Tailwind CSS Badge][tailwind-css-img]][tailwind-css] [![PostgreSQL Badge][postgresql-img]][postgresql] </p> | <p align="center"> [![Git Badge][git-img]][git] [![Linux Badge][linux-img]][linux] [![GNU Bash Badge][bash-img]][bash] </p> |
+| <p align="center"> [![C Badge][c-img]][c] [![C++ Badge][cpp-img]][cpp] [![JavaScript Badge][js-img]][js] [![TypeScript Badge][ts-img]][ts] </p> | <p align="center"> [![NestJS Badge][nestjs-img]][nestjs] [![React Badge][react-img]][react] [![Node.js Badge][nodejs-img]][nodejs] [![Next.js Badge][next-img]][next] [![Docker Badge][docker-img]][docker] [![Kubernetes Badge][kubernetes-img]][kubernetes] [![Amazon AWS Badge][aws-img]][aws] [![Terraform Badge][terraform-img]][terraform] [![Ansible Badge][ansible-img]][ansible] [![Bootstrap Badge][bootstrap-img]][bootstrap] [![Express Badge][express-img]][express] [![Tailwind CSS Badge][tailwind-css-img]][tailwind-css] [![PostgreSQL Badge][postgresql-img]][postgresql] </p> | <p align="center"> [![Git Badge][git-img]][git] [![Linux Badge][linux-img]][linux] [![GNU Bash Badge][bash-img]][bash] </p> |
 
 ### Socials
 
@@ -48,8 +49,8 @@ I am a full-stack developer, DevOps and software engineer, who has completed the
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/BekxFR/so_long" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BekxFR&repo=so_long&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<div width="100%" align="center"><a href="https://github.com/BekxFR/transcendence" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BekxFR&repo=transcendence&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<a href="https://github.com/BekxFR/so_long" ><img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=BekxFR&repo=so_long&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<a href="https://github.com/BekxFR/transcendence" ><img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=BekxFR&repo=transcendence&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 [42-img]: https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=flat
 [c-img]: https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat
@@ -74,6 +75,8 @@ I am a full-stack developer, DevOps and software engineer, who has completed the
 [github-followers-img]: https://img.shields.io/github/followers/BekxFR?logo=github&style=flat&color=a855f7&labelColor=1c1917
 [linkedin-img]: https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat
 [coding-img]: https://img.shields.io/badge/CodinGame-F2BB13?logo=codingame&logoColor=fff&style=flat
+[ansible-img]: https://img.shields.io/badge/ansible-231A1918?logo=ansible&logoColor=fff&style=flat
+[nodejs-img]: https://img.shields.io/badge/node.js-6DA55F?logo=ansible&logoColor=fff&style=flat
 
 [42s]: https://42.fr/
 [c]: https://docs.microsoft.com/en-us/cpp/?view=msvc-170
@@ -98,3 +101,6 @@ I am a full-stack developer, DevOps and software engineer, who has completed the
 [linkedin-profile]: https://www.linkedin.com/in/cyril-hillion
 [coding-game]: https://www.codingame.com/
 [coding-profile]: https://www.codingame.com/profile/8bb24abe81f87df1bdb45b1adad1cdde9514635
+[ansible]: https://docs.ansible.com/ansible/latest/index.html
+[nodejs]: (https://nodejs.org/en/download/package-manager
+
