@@ -22,7 +22,7 @@ Full Stack Developer, DevOps and Software engineer
 I am a full-stack developer, DevOps and software engineer, who has completed the [![42 Badge][42-img]][42s] School and finished the common core. I am interested in full-stack development, DevOps programming, software development, game projects, or open to other propositions. Please feel free to contact me for any further informations.
 
 * 🌍  I'm based in Paris.
-* 🧠  I'm do projects with React, NestJS, Next.js, Node.js, Tailwind CSS, Docker, C, C++, Python and other technos and languages.
+* 🧠  I do projects with React, NestJS, Next.js, Node.js, Tailwind CSS, Docker, C, C++, Python and other technos and languages.
 * 🌱  I'm learning Bootstrap, AWS, Ansible, Terraform, Unreal Engine, Java and other technos and languages.
 * 🤝  I'm open to collaborating on software, full-stack, game, or other interesting projects.
 * ⚡  In another life, I was an IT admin and IT manager, but I love coding and creating epic graphic projects, like my "so\_long" folder, with personal drawings.
